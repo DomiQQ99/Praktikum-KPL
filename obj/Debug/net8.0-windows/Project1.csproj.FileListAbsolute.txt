@@ -14,3 +14,4 @@ C:\Users\Alghifari\Praktikum_KPL\Modul2\Project1\Project1\obj\Debug\net8.0-windo
 C:\Users\Alghifari\Praktikum_KPL\Modul2\Project1\Project1\obj\Debug\net8.0-windows\Project1.pdb
 C:\Users\Alghifari\Praktikum_KPL\Modul2\Project1\Project1\obj\Debug\net8.0-windows\Project1.genruntimeconfig.cache
 C:\Users\Alghifari\Praktikum_KPL\Modul2\Project1\Project1\obj\Debug\net8.0-windows\ref\Project1.dll
+C:\Users\Alghifari\Praktikum_KPL\Modul2\Project1\Project1\obj\Debug\net8.0-windows\Project1.sourcelink.json

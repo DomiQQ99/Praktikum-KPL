@@ -35,19 +35,21 @@
             // 
             // button1
             // 
-            button1.Location = new Point(568, 142);
+            button1.BackColor = Color.Orange;
+            button1.Location = new Point(491, 159);
             button1.Name = "button1";
             button1.Size = new Size(94, 29);
             button1.TabIndex = 0;
-            button1.Text = "button1";
-            button1.UseVisualStyleBackColor = true;
+            button1.Text = "BUTTON";
+            button1.UseVisualStyleBackColor = false;
             button1.Click += button1_Click;
             // 
             // textBox1
             // 
-            textBox1.Location = new Point(302, 144);
+            textBox1.BackColor = Color.Orange;
+            textBox1.Location = new Point(225, 159);
             textBox1.Name = "textBox1";
-            textBox1.Size = new Size(135, 27);
+            textBox1.Size = new Size(218, 27);
             textBox1.TabIndex = 1;
             textBox1.Text = "Input";
             textBox1.TextAlign = HorizontalAlignment.Center;
@@ -55,9 +57,10 @@
             // 
             // textBox2
             // 
-            textBox2.Location = new Point(312, 203);
+            textBox2.BackColor = Color.Orange;
+            textBox2.Location = new Point(225, 239);
             textBox2.Name = "textBox2";
-            textBox2.Size = new Size(125, 27);
+            textBox2.Size = new Size(360, 27);
             textBox2.TabIndex = 2;
             textBox2.Text = "Output";
             textBox2.TextAlign = HorizontalAlignment.Center;

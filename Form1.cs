@@ -2,7 +2,7 @@ namespace Project1
 {
     public partial class Form1 : Form
     {
-        private string nama;
+        private string NAMA;
 
         public Form1()
         {
@@ -16,7 +16,7 @@ namespace Project1
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
-
+            NAMA = textBox1.Text;
         }
 
         private void textBox2_TextChanged(object sender, EventArgs e)
@@ -26,7 +26,8 @@ namespace Project1
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            textBox2.Text = "HALLO " + NAMA;
+            textBox2.Show();
         }
     }
 }
